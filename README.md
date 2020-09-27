@@ -1,6 +1,6 @@
 # DeepiSign
 
-Self-contained Integrity and Authenticity of CNN Using Fragile Watermark
+Self-contained Integrity and Authenticity of CNN Using Fragile invisible Watermark
 
 Avaliable Soon
 
