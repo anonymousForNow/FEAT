@@ -14,3 +14,8 @@ The dataset will be avaliable once the paper is accepted.
 Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
 Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+
+No  | Family | Type | Samples | no.| Family | Type | Samples
+--- | --- | --- | --- |--- |--- |--- |--- 
+1 | Cerber | Crypto | 33 | 23 | Petya | Crypto | 1 
+2 |  Sodinokibi |  Crypto | 14 |  24|  Satana |  Crypto |  1
