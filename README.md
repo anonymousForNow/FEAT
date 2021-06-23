@@ -45,5 +45,5 @@ No  | Family | Type | Samples | No.| Family | Type | Samples
 30 | Vipasana | Crypto | 1 | 64 | Winlock | Crypto | 1
 31 | Xorist | Crypto | 2  | 65 | Unknown | Crypto | 1
 32 | Malevich | Crypto | 1 | 66 | Ryuk | Crypto | 6
-33 | Jigsaw | Crypto | 1  | 66 | Zeppelin | Crypto | 6
+33 | Jigsaw | Crypto | 1  | 67 | Zeppelin | Crypto | 6
 34 | Adobe | Crypto | 1
