@@ -9,13 +9,9 @@ This reposiroty includes the largest public source ransomware families: 67 ranso
 We collected more than 56,136 ransomware samples (around 40GB size on disk) from VirusTotal, MalwareBazaar, malwarerepository, malwares, and other online communities. we excluded many malware samples from our final datasetfor experiments.
 
 
-The dataset will be avaliable once the paper is accepted.
+The dataset will be avaliable once the paper is accepted. It consists the following distribution:
 
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
-
-No  | Family | Type | Samples | no.| Family | Type | Samples
+No  | Family | Type | Samples | No.| Family | Type | Samples
 --- | --- | --- | --- |--- |--- |--- |--- 
 #1 | Cerber | Crypto | 33 | #23 | Petya | Crypto | 1 
 #2 |  Sodinokibi |  Crypto | 14 |  #24|  Satana |  Crypto |  1
@@ -38,4 +34,4 @@ No  | Family | Type | Samples | no.| Family | Type | Samples
 19 | Keypass | Crypto | 1 | 41 | ShellLocker | Screen | 1 
 20 | Lockcrypt | Crypto | 1 | 42 | DerialLock | Screen | 1
 21 | Pack14 | Crypto | 1 | 43 | Trojan.Ransom | Screen | 1 
-22 | PocrimCrypt | Crypto | 1 | \multicolumn{4}{c}{-} \\ \midrule
+22 | PocrimCrypt | Crypto | 1 | 
