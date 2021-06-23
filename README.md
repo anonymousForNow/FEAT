@@ -1,9 +1,12 @@
-# DeepiSign
+# FEAT
 
-Self-contained Integrity and Authenticity of CNN Using Fragile invisible Watermark
+File Events Profiling for Ransomware Detection
 
 Avaliable Soon
 
-This reposiroty includes our DeepiSign algorithm to protect Deep Neural Network models using Wavelet based Steganography.
+This reposiroty includes the largest public source ransomware families: 67 ransomware families.
 
-The code will be avaliable once the paper is accepted.
+We collected more than 56,136 ransomware samples (around 40GB size on disk) from VirusTotal, MalwareBazaar, malwarerepository, malwares, and other online communities. we excluded many malware samples from our final datasetfor experiments.
+
+
+The dataset will be avaliable once the paper is accepted.
